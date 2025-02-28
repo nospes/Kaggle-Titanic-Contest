@@ -18,6 +18,7 @@ O objetivo desta competição é prever quais passageiros sobreviveram ao naufr�
 
 ## 📂 Estrutura do Repositório
 - `contest.py` - Testes exploratórios com diferentes modelos (Regressão Logística, Random Forest, XGBoost).
+- - `titanicNEW.py` - Testes exploratórios com dados refinados.
 - `submission.py` - Código final usado para gerar o arquivo de submissão para o Kaggle.
 - `submission.csv` - Previsões finais geradas pelo modelo.
 - `train.csv` e `test.csv` - Dados originais do Titanic.
