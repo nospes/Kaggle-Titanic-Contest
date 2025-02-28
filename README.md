@@ -1,3 +1,14 @@
+Comparação de acerto dos modelos
+![image](https://github.com/user-attachments/assets/225ec16c-3ab3-4421-a170-515e8306f837)
+
+Idades por mortes
+![image](https://github.com/user-attachments/assets/d0db15af-1461-4893-b3dd-add44a9c6c6f)
+
+Classe de embarcação por morte
+![image](https://github.com/user-attachments/assets/4820890c-9e27-4640-b2dd-7210c5198b6d)
+ 
+
+
 # Titanic - Kaggle Competition
 
 Este repositório contém a solução para a competição [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) no Kaggle.
@@ -73,3 +84,7 @@ The goal of this competition is to predict which passengers survived the Titanic
    python submission.py
    ```
 4. The `submission.csv` file will be generated and can be submitted to Kaggle.
+
+
+
+
